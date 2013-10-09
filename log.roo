@@ -1,0 +1,7 @@
+// Spring Roo 1.2.2.RELEASE [rev 7d75659] log opened at 2013-10-09 19:47:56
+hint
+project --topLevelPackage com.ezi.tfidf
+hint
+persistence setup --provider HIBERNATE --database POSTGRES 
+quit
+// Spring Roo 1.2.2.RELEASE [rev 7d75659] log closed at 2013-10-09 19:50:52
